@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**itxabhishek209-hash/itxabhishek209-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently working on : Small project using basic programming concepts<br>i'm looking to collaborate on: college level tech projects<br>I'm currently learning :program solving skills<br>Fun fact : I enjoy solving coding problems and improving logic skill daily
 
